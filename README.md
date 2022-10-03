@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @cooper-roper
-- 👀 I’m interested in video game development
-- 🌱 I’m currently learning operating systems
-- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me https://www.linkedin.com/in/cooper-roper/
 
 <!---
